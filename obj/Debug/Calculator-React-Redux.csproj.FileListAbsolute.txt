@@ -1,0 +1,6 @@
+C:\Users\Pollito\Dropbox\JavaScript_Practica\Projects\React_TypeScript\Calculator-React-Redux\Calculator-React-Redux\bin\Calculator-React-Redux.dll.config
+C:\Users\Pollito\Dropbox\JavaScript_Practica\Projects\React_TypeScript\Calculator-React-Redux\Calculator-React-Redux\bin\Calculator-React-Redux.dll
+C:\Users\Pollito\Dropbox\JavaScript_Practica\Projects\React_TypeScript\Calculator-React-Redux\Calculator-React-Redux\bin\Calculator-React-Redux.pdb
+C:\Users\Pollito\Dropbox\JavaScript_Practica\Projects\React_TypeScript\Calculator-React-Redux\Calculator-React-Redux\obj\Debug\Calculator-React-Redux.csprojResolveAssemblyReference.cache
+C:\Users\Pollito\Dropbox\JavaScript_Practica\Projects\React_TypeScript\Calculator-React-Redux\Calculator-React-Redux\obj\Debug\Calculator-React-Redux.dll
+C:\Users\Pollito\Dropbox\JavaScript_Practica\Projects\React_TypeScript\Calculator-React-Redux\Calculator-React-Redux\obj\Debug\Calculator-React-Redux.pdb
